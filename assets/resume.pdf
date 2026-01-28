@@ -1,0 +1,142 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+4 0 obj
+<<
+/Length 2200
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(JANE DOE) Tj
+0 -30 Td
+/F2 12 Tf
+(Full Stack Developer | Creative Problem Solver) Tj
+0 -20 Td
+(San Francisco, CA | jane.doe@example.com | +1 \(234\) 567-890) Tj
+0 -40 Td
+/F1 16 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -20 Td
+/F2 11 Tf
+(Results-driven Full Stack Developer with 5+ years of experience building) Tj
+0 -15 Td
+(and maintaining web applications. Expertise in React, Node.js, and modern) Tj
+0 -15 Td
+(web technologies. Proven track record of delivering high-quality solutions.) Tj
+0 -35 Td
+/F1 16 Tf
+(WORK EXPERIENCE) Tj
+0 -25 Td
+/F1 12 Tf
+(Senior Full Stack Developer) Tj
+/F2 11 Tf
+( - TechCorp Solutions) Tj
+0 -15 Td
+/F2 10 Tf
+(2022 - Present) Tj
+0 -15 Td
+/F2 11 Tf
+(• Led team of 5 developers in enterprise web application development) Tj
+0 -12 Td
+(• Improved system performance by 40% through microservices migration) Tj
+0 -12 Td
+(• Implemented CI/CD pipelines reducing deployment time by 60%) Tj
+0 -25 Td
+/F1 12 Tf
+(Full Stack Developer) Tj
+/F2 11 Tf
+( - Digital Innovations Inc.) Tj
+0 -15 Td
+/F2 10 Tf
+(2020 - 2022) Tj
+0 -15 Td
+/F2 11 Tf
+(• Built 10+ responsive web applications using React and Vue.js) Tj
+0 -12 Td
+(• Optimized application performance resulting in 50% faster load times) Tj
+0 -12 Td
+(• Integrated payment gateways for e-commerce platforms) Tj
+0 -35 Td
+/F1 16 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F2 11 Tf
+(Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Vue.js) Tj
+0 -15 Td
+(Backend: Node.js, Express.js, Python, REST APIs) Tj
+0 -15 Td
+(Database: MongoDB, PostgreSQL) Tj
+0 -15 Td
+(Tools: Git, Docker, AWS, CI/CD, Jest, Cypress) Tj
+0 -35 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 12 Tf
+(Bachelor of Science in Computer Science) Tj
+0 -15 Td
+/F2 11 Tf
+(University of Technology, 2014 - 2018) Tj
+0 -15 Td
+(Graduated with Honors) Tj
+ET
+endstream
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+xref
+0 7
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000274 00000 n
+0000002526 00000 n
+0000002619 00000 n
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+2708
+%%EOF
