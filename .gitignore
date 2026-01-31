@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.local
+.env.production
+
+# Node (if added later)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# Claude project files
+.claude/
