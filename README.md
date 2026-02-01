@@ -36,7 +36,8 @@ portfolio-website/
 │   ├── background_image.png
 │   ├── Chelsea_headshot.jpg
 │   ├── favicon.png
-│   └── 2026 Main Resume.docx
+│   ├── EGA.png
+│   └── 2026 Main Resume.pdf
 └── README.md
 ```
 
