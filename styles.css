@@ -309,6 +309,10 @@ body>* {
     padding: 4rem 0;
 }
 
+.about-actions {
+    margin: 1rem 0 1.5rem;
+}
+
 .about-grid {
     display: grid;
     grid-template-columns: 1fr 2fr;
