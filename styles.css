@@ -133,13 +133,13 @@ body>* {
 
 /* Hero Section */
 .hero {
-    min-height: 90vh;
+    min-height: 72vh;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
     overflow: hidden;
-    padding: 2rem 20px;
+    padding: 2rem 20px 1rem;
 }
 
 .hero-content {
@@ -945,7 +945,10 @@ footer p {
 
 /* Homepage Notary Teaser */
 .notary-teaser {
-    padding: 2rem 0 4rem;
+    padding: 0 0 4rem;
+    margin-top: -1.5rem;
+    position: relative;
+    z-index: 2;
 }
 
 .notary-teaser-card {
